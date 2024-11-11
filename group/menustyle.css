@@ -1,0 +1,24 @@
+.menudiv {
+    background-color: orange;
+    border: 2px solid black;
+    width: 80%;
+    height: 96vh;
+    text-align: center;
+    border-radius: 30px;
+    opacity: 0.8;
+    color: rgb(0, 0, 0);
+    }
+
+    body {
+        background-image: url(https://img.freepik.com/premium-photo/chef-focuses-preparing-delicious-plate-food-with-meticulous-attention-detail-gourmet-dish-being-prepared-highend-restaurant-kitchen-ai-generated_538213-23776.jpg);
+        background-repeat: no-repeat;
+        background-size:  100%;
+        background-color: rgb(147, 138, 138);
+        background-attachment: fixed;
+    }
+
+    table{
+        Width:90%;
+        Height:10vh;
+        text-align: center;
+    }

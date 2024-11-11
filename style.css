@@ -1,0 +1,231 @@
+body {
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/443/406/532/5c1c925cd8929-wallpaper-preview.jpg );
+    background-repeat: no-repeat;
+    background-size:  100%;
+    background-color: rgb(147, 138, 138);
+    background-attachment: fixed;
+
+}
+.number {
+    margin-top: 30px;
+    font-size: 20px;
+    color: white;
+    margin-left: 50px;
+    display: inline-block;
+}
+
+.duration{
+    margin-top: 30px;
+    font-size: 20px;
+    color: white;
+    margin-right: 50px;
+    display: inline-block;
+    float: right;
+}
+
+.whatsapp{
+    width: 70px;
+    position: fixed;
+    margin-left: 1050px;
+    margin-top: 530px;
+}
+
+
+.top{
+    width: 70px;
+    position: fixed;
+    float: left;
+    margin-left: -150px;
+    margin-top: 530px;
+}
+
+header {
+    background-color: orange;
+    font-size: 35px;
+    letter-spacing: 5px;
+}
+
+header:hover {
+    background-color: rgb(100, 100, 100);
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.welcomepara {
+    background-color: rgb(100, 100, 100);
+    width: 100%;
+    height:110vh;
+    border-radius: 50px;
+    }
+
+
+.welcome{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: bolder;
+    letter-spacing: 15px;
+    margin-left: 20px;
+}
+
+.restaurant{
+    color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.para {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    line-height: 30px;
+    display: inline-block;
+    word-spacing: 10px;
+    width: 55%;
+    margin-left: 10px;
+}
+
+.fastfood{
+    display: inline-block;
+    width: 50%;
+    height: 45vh;
+    float: right;
+    margin-top: -300px;
+}
+
+
+div > img {
+    display: inline-block;
+    width: 300px;
+    height: 40vh;
+    display: inline-block;
+}
+
+.divcolor{
+    background-color: black;
+    width: 300px;
+    height: 40vh;
+    display: inline-block;
+}
+
+.menu {
+    margin-left: 30px;
+    border: 3px solid orange;
+    width: 200px;
+    text-align: center;
+    border-radius: 50px;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    font-size: 25px;
+    background-color: rgb(0, 0, 0);
+}
+
+.menu:hover {
+    background-color: orange;
+}
+
+.booktable {
+    margin-left: 50px;
+    border: 3px solid orange;
+    width: 200px;
+    text-align: center;
+    border-radius: 50px;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    font-size: 25px;
+    background-color: rgb(0, 0, 0);
+}
+
+.booktable:hover {
+    background-color: orange;
+}
+
+.order{
+    font-size: 80px;
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    background-color: orange;
+    width: 65px;
+    margin-right: 200px;
+    display: inline-block;
+    margin-top: 10px;
+    }
+
+    .mainbox{
+        text-align: center;
+    }
+
+    .yes { 
+        color: orange;
+    }
+
+    .para10div{
+        background-color: rgb(100, 100, 100);   
+        border-radius: 50px;
+    }
+    .para10 {
+        color: white;
+        font-size: 20px;
+        width: 55%;
+        margin-left: 10px;
+        display: inline-block;
+        text-align: justify;
+    }
+        .chiken{
+            display: inline-block;
+            width: 100%;
+            height: 100vh;
+            float: right;
+            margin-top: -600px; 
+        }
+
+        h2{
+            color: orange;
+            margin-left: 30px;
+            font-size: 35px;
+            text-decoration: underline;
+        }
+        
+
+        .Location {
+            background-color: rgb(100, 100, 100);   
+            border: 1px solid black;
+        }
+
+
+
+        .end {
+            width: 100%;
+            background-color: rgb(0, 0, 0);
+            opacity: 2;
+            height: 45vh;
+            color: white;
+                }
+
+                .end{ opacity: 0.8;}
+
+                .end1{display: inline-block;
+                    width: 70%;
+                    margin-left: 20px;
+                }
+
+                .end2{
+                    display: inline-block;
+                    float: right;}
+
+                    .finalimg{
+                        width: 70px;
+                        height: 10vh;
+                        margin-right: 20px;
+                    }
+
+                    
+
+
+    
+    
+
+
+
